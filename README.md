@@ -1,4 +1,4 @@
 physis
 ======
 
-Audio Bridge created for the Physis project. It allow 
+AudioBridge is created for the Physis project.
